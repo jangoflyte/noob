@@ -1,2 +1,4 @@
 # New-Project
-LEarning to use GitHub
+Learning to use GitHub
+  - Python
+  - Haskell
