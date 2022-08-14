@@ -1,8 +1,10 @@
 #new file
 
-main():
+def main():
   x = input("What do you want?: ")
-  if len(x) > 5
+  if len(x) > 5:
     print("Hello World!")
   else:
     print("You stupid!")
+
+main()
