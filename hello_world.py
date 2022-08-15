@@ -7,4 +7,6 @@ def main():
   else:
     print("You stupid!")
 
-main()
+
+if __name__ == "__main__":
+  main()
